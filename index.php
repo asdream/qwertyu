@@ -12,7 +12,11 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        echo 111112187834982104788888888888;
+       $a=12;
+       $b=34;
+       $c=12+34;
+       var_dump($c);
+        
         
         ?>
     </body>
