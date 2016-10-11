@@ -15,6 +15,7 @@ and open the template in the editor.
        $a=12;
        $b=34;
        $c=12+34;
+        $d='this is the second use github';
        var_dump($c);
         
         
